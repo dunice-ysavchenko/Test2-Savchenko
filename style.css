@@ -144,7 +144,8 @@ h1{
 }
 .oscarMask2{
    background-image: url("images/shadow_down.png");
-    width: 100%;
+    box-sizing: border-box;
+    width: 1600px;
     height: 56px;
     margin-top: 0px; 
     text-align: center;
