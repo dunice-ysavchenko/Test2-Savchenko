@@ -18,7 +18,7 @@ body{
    text-align:left;
 }
 .content{
-   max-width:50%;
+   max-width:800px;
    margin:0 auto;
    text-align:left;
    font-size: 1.125em;
@@ -38,7 +38,7 @@ h1{
 
 .oscar{
     background-image: url("images/oscar.png");
-    width: 100%;
+    width: 1600px;
     height: 565px;
     margin-bottom: 0px;
     color: white;
@@ -78,6 +78,7 @@ h1{
 }
 .eddie{
     margin-bottom: 110px;
+    margin-left: 400px;
 }
 .eddie>p {
     line-height: 30px;
@@ -152,6 +153,7 @@ h1{
     color: #82a0b0;
     font-size: 0.9em;
     line-height: 55px;
+    padding-left: 14.5px;
 }
 .sign{
     float: left;
@@ -167,7 +169,9 @@ h1{
     background-position: 50% 50%;
     background-image: url("images/icon_g.png");
     background-repeat: no-repeat;
-    margin-right: 6px;
+    margin-right: 5px;
+    margin-top: 13px;
+    margin-left: 1px;
 }
 .name-g{
     margin-right: 41.5px;
@@ -223,13 +227,17 @@ h1{
     margin-right: 42.5px;
     letter-spacing: 0.03px;
 }
-.weekend {
+.weekend{
+    margin-left: 400px;
+}
+.weekend>p {
     line-height: 30px;
     margin-bottom: 17px;
 }
 .whiplash{
     margin-top: 85px;
     margin-bottom: 70px;
+    margin-left: 400px;
 }
 .whiplash>.images{
     width: 100%;
@@ -244,6 +252,9 @@ h1{
 .whiplash>p{
     line-height: 30px;
     margin-bottom: 13px;
+}
+.academy{
+    margin-left: 400px;
 }
 .academy>h1{
     margin-top: 75px;
@@ -280,6 +291,7 @@ h1{
 }
 .showing{
     margin-bottom: 68px;
+    margin-left: 400px;
 }
 .showing>h1{
     margin-top: 83px;
@@ -303,6 +315,9 @@ h1{
     background-image: url("images/preview.png");
     margin-bottom: 17px;
 } 
+.soundtrack{
+    margin-left: 400px;
+}
 .comment{
     background-image: url(images/comment.png);
     background-repeat: no-repeat;
@@ -381,6 +396,7 @@ h1{
 .interstellar{
      margin-top: 80px;
      margin-bottom: 48px;
+     margin-left: 400px;
 }
 .interstellar>h1{
     margin-bottom: 28px;
@@ -420,7 +436,9 @@ h1{
 .interstellar>.icon-skip{
     margin-top: 17px;
 }
-
+.comments{
+    margin-left: 400px;
+}
 .line-reply{
     width: 100%;
     background-image: url("images/reply-line.png");
@@ -559,6 +577,9 @@ h1{
     margin-left: 391px;
     margin-bottom: -4px;
 }
+.part2{
+    margin-left: 400px;
+}
 .part2>p{
     letter-spacing: 0.25px;
     margin-bottom: 12px;
@@ -579,6 +600,7 @@ h1{
     color: #97a2c7;
     margin-top: 89px;
     letter-spacing: 0.9px;
+    margin-left: 400px;
 }
 .reply>a{
     text-decoration: none;
